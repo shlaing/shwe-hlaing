@@ -35,7 +35,7 @@ export const Hero: React.FC<HeroProps> = ({ onContactClick }) => {
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-500 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-green-500"></span>
               </span>
-              <span className="font-mono text-xs tracking-wide">OPEN_TO_WORK = TRUE</span>
+              <span className="font-mono text-xs tracking-wide">Open To Any Available Positions</span>
             </div>
             
             <h5 className="text-5xl md:text-7xl font-bold tracking-tight text-slate-900 dark:text-white max-w-5xl transition-colors">
