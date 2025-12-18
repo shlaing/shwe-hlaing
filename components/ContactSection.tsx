@@ -87,10 +87,7 @@ export const ContactSection: React.FC = () => {
         </div>
 
         <div className="mt-24 pt-8 border-t border-slate-200 dark:border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-500 text-sm font-mono">
-            <p>&copy; {new Date().getFullYear()} Shwe Hlaing. Built with React & Tailwind CSS.</p>
-            <p className="flex items-center gap-2">
-                Designed for Performance <Globe className="h-3 w-3" />
-            </p>
+            <p>&copy; {new Date().getFullYear()} Shwe Hlaing.</p>
         </div>
       </div>
     </section>
