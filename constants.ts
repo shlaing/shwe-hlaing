@@ -7,7 +7,7 @@ export const HERO_DATA = {
   resumeLink: "https://drive.google.com/file/d/16DC1QosQFntdV_-vEY4874JB2_V0IuoT/view?usp=sharing", // Placeholder
   videoIntro: "https://res.cloudinary.com/dnmp1thrm/image/upload/v1765934919/profile_jovqfg_1_m0llnc.jpg", // Placeholder for video poster
   videoUrl: "https://www.youtube.com/embed/-1h6uHxBV3s", // Specific video request
-  profileImage: "https://res.cloudinary.com/dnmp1thrm/image/upload/v1765935591/copy_of_copy_of_profile_jovqfg_1_m0llnc_15a730_e1cd13.jpg", // Updated profile image
+  profileImage: "https://res.cloudinary.com/dnmp1thrm/image/upload/v1771799307/IMG_4651_2_sk5ir8.jpg", // Updated profile image
 };
 
 export const CORE_TECHNOLOGIES = [
